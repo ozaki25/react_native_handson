@@ -10,5 +10,9 @@ cd Native
 react-native run-ios
 
 brew install Caskroom/cask/android-sdk
+
+https://facebook.github.io/react-native/docs/getting-started.html
+「Building Projects with Native Code」　-> 「Android」
+
 react-native run-android
 ```
