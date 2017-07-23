@@ -8,4 +8,7 @@ react-native init Native
 
 cd Native
 react-native run-ios
+
+brew install Caskroom/cask/android-sdk
+react-native run-android
 ```
